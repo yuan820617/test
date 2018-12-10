@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-10_1536",
-    "currentPage": "page2.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -121,7 +121,8 @@
               "color": "#232323"
             },
             ".mbr-text, .mbr-section-btn": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#232323"
             }
           },
           "_name": "header7",
