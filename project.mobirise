@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-10_1536",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -151,14 +151,14 @@
               "color": "#767676"
             },
             ".mbr-text DIV": {
-              "color": "#149dcc"
+              "color": "#767676"
             },
             ".mbr-text B": {
               "color": "#232323"
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#879a9f\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>【Day1 塔塔加、排雲山莊以及玉山西峰：總步程8小時，12.9K】 \n</b><div><b>\n</b></div><div><b>6:15 從東埔山莊出發，徒步前往塔塔加警察小隊，繳交入山證 \n</b></div><div><b>\n</b></div><div><b>→ 6:30 搭最早的接駁車到塔塔加登山口（塔塔加鞍部） \n</b></div><div><b>\n</b></div><div><b>ps. 接駁車時間為6:30-17:00，每人單趟$100 \n</b></div><div><b>\n</b></div><div><b>→ 12:00 抵達排雲山莊（去程約5小時，8.5K） \n</b></div><div><b>\n</b></div><div><b>→ 13:30-15:00 抵達玉山西峰！（單程約1.5小時，2.2K） \n</b></div><div><b>\n</b></div><div><b>→ 15:30-17:00 回到排雲山莊 \n</b></div><div><b>\n</b></div><div><b>→ 吃晚餐，早早睡，明天早起！（排雲沒有淋浴間，介意者可帶濕紙巾稍微擦身體） &nbsp;</b></div><div><b> \n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>【Day2 玉山主峰兼返回台北：總步程7小時，共13.3K】 \n</b></div><div><b>\n</b></div><div><b>2:00 起床吃早餐 \n</b></div><div><b>\n</b></div><div><b>→ 3:20-5:50 從排雲山莊前往玉山主峰（單趟約2.5小時，2.4K） \n</b></div><div><b>\n</b></div><div><b>→ 5:55 在玉山主峰看日出！ \n</b></div><div><b>\n</b></div><div><b>→ 6:30-8:00 回到排雲山莊，吃早午餐（單趟約1.5小時） \n</b></div><div><b>\n</b></div><div><b>→ 9:30-12:30 從排雲山莊出發回到塔塔加登山口，搭接駁車回上東埔（回程約3小時）</b></div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#e4d295\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>【Day1 塔塔加、排雲山莊以及玉山西峰：總步程8小時，12.9K】 \n</b><div><b>\n</b></div><div><b>6:15 從東埔山莊出發，徒步前往塔塔加警察小隊，繳交入山證 \n</b></div><div><b>\n</b></div><div><b>→ 6:30 搭最早的接駁車到塔塔加登山口（塔塔加鞍部） \n</b></div><div><b>\n</b></div><div><b>ps. 接駁車時間為6:30-17:00，每人單趟$100 \n</b></div><div><b>\n</b></div><div><b>→ 12:00 抵達排雲山莊（去程約5小時，8.5K） \n</b></div><div><b>\n</b></div><div><b>→ 13:30-15:00 抵達玉山西峰！（單程約1.5小時，2.2K） \n</b></div><div><b>\n</b></div><div><b>→ 15:30-17:00 回到排雲山莊 \n</b></div><div><b>\n</b></div><div><b>→ 吃晚餐，早早睡，明天早起！（排雲沒有淋浴間，介意者可帶濕紙巾稍微擦身體） &nbsp;</b></div><div><b> \n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>【Day2 玉山主峰兼返回台北：總步程7小時，共13.3K】 \n</b></div><div><b>\n</b></div><div><b>2:00 起床吃早餐 \n</b></div><div><b>\n</b></div><div><b>→ 3:20-5:50 從排雲山莊前往玉山主峰（單趟約2.5小時，2.4K） \n</b></div><div><b>\n</b></div><div><b>→ 5:55 在玉山主峰看日出！ \n</b></div><div><b>\n</b></div><div><b>→ 6:30-8:00 回到排雲山莊，吃早午餐（單趟約1.5小時） \n</b></div><div><b>\n</b></div><div><b>→ 9:30-12:30 從排雲山莊出發回到塔塔加登山口，搭接駁車回上東埔（回程約3小時）</b></div></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rbOow1tg2W",
           "_protectedParams": [],
           "_global": false,
